@@ -1,0 +1,4 @@
+song/artist database
+user profiles with their top songs
+storing the samples of songs in the database so you can play the original
+artist guessing game with multiple choice maybe, get exp from guessing correctly
